@@ -16,7 +16,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 26px;
 line-height: 31px;
-color:black; }
+color:#000000; }
 
  .accent{ color: #2196F3;
 
@@ -79,3 +79,7 @@ background: #2F303A;
         background: #2196F3;
        
         }
+    .botton{
+background: #F5F4FA;
+    }
+    .botton:hover{background:  #2196F3;}

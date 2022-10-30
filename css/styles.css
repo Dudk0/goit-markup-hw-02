@@ -1,5 +1,4 @@
 
-
 body{
      font-family: Roboto; 
      font-size :14px;
@@ -22,7 +21,7 @@ color:#000000; }
 
 
  }
-.social-links .link:hover{ color: black; }
+.social-links .link:hover{ color: #2196F3 }
 .social-links .link:focus { color: #2196F3;}
 .link{
    
@@ -70,16 +69,29 @@ background: #2F303A;
     color: #FFFFFF;
     }
     .boton{
-        position: absolute;
-        width: 216px;
-        height: 50px;
-        left: 692px;
-        top: 430px;
-        
-        background: #2196F3;
+position: absolute;
+width: 152px;
+height: 30px;
+left: 724px;
+top: 440px;
+background: #2196F3;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
        
         }
     .botton{
 background: #F5F4FA;
+
     }
     .botton:hover{background:  #2196F3;}

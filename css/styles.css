@@ -17,8 +17,7 @@
     font-family: Roboto, sans-serif;
     font-size: 14px;
     line-height: 1.71;
-    letter-spacing: 0.03em;
-  }
+    letter-spacing: 0.03em; }
   .list {
     list-style: none;
   }
@@ -32,8 +31,7 @@
     line-height: 1.17;
     text-align: center;
   }
-  
-  
+    
   .logo {
     color: var(--logo-up-color);
     font-family: Raleway, sans-serif;
